@@ -1,0 +1,9 @@
+C:\Users\arbit\Source\Workspaces\CIS150\FINAL PROJECT\FinalProjectEmployeeApp\FinalProjectEmployeeApp\bin\Debug\FinalProjectEmployeeApp.exe.config
+C:\Users\arbit\Source\Workspaces\CIS150\FINAL PROJECT\FinalProjectEmployeeApp\FinalProjectEmployeeApp\obj\Debug\FinalProjectEmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\arbit\Source\Workspaces\CIS150\FINAL PROJECT\FinalProjectEmployeeApp\FinalProjectEmployeeApp\obj\Debug\FinalProjectEmployeeApp.frmFinalProject.resources
+C:\Users\arbit\Source\Workspaces\CIS150\FINAL PROJECT\FinalProjectEmployeeApp\FinalProjectEmployeeApp\obj\Debug\FinalProjectEmployeeApp.Properties.Resources.resources
+C:\Users\arbit\Source\Workspaces\CIS150\FINAL PROJECT\FinalProjectEmployeeApp\FinalProjectEmployeeApp\obj\Debug\FinalProjectEmployeeApp.csproj.GenerateResource.Cache
+C:\Users\arbit\Source\Workspaces\CIS150\FINAL PROJECT\FinalProjectEmployeeApp\FinalProjectEmployeeApp\bin\Debug\FinalProjectEmployeeApp.exe
+C:\Users\arbit\Source\Workspaces\CIS150\FINAL PROJECT\FinalProjectEmployeeApp\FinalProjectEmployeeApp\bin\Debug\FinalProjectEmployeeApp.pdb
+C:\Users\arbit\Source\Workspaces\CIS150\FINAL PROJECT\FinalProjectEmployeeApp\FinalProjectEmployeeApp\obj\Debug\FinalProjectEmployeeApp.exe
+C:\Users\arbit\Source\Workspaces\CIS150\FINAL PROJECT\FinalProjectEmployeeApp\FinalProjectEmployeeApp\obj\Debug\FinalProjectEmployeeApp.pdb
